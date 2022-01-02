@@ -24,13 +24,13 @@ CI / CD system integration, and SARIF reporting.
 ## What does STACS support?
 
 STACS supports plain-text, such as source code, as well as a number of common binary and
-archive file formats, including:
-
-`zip`, `7z`, `rpm`, `tar`, `bz2`, `gz`, `xz`, `iso`
+archive file formats, including: `zip`, `7z`, `rpm`, `tar`, `bz2`, `gz`, `xz`, `iso`
 
 As STACS works on detected file types, rather than the filename, file formats based on
 these supported types are automatically supported, including Docker images, Android
 APKs, OVAs, JARs, WARs, EARs, and more!
+
+For a full list please see [supported file types](/support/file-types).
 
 ## Who should use STACS?
 
