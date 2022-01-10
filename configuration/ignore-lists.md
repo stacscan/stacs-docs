@@ -6,7 +6,7 @@ permalink: /configuration/ignore-lists
 ---
 
 ## Ignore Lists
-{: .fs-7 }
+{:  .no_toc .fs-7 }
 
 Ignore lists provide a way for STACS users to 'suppress' known findings and false
 positives. The most common use of ignore lists are ignoring certain directories or files
@@ -18,6 +18,12 @@ the finding.
 Findings which match an ignore list entry are marked as suppressed, with the `reason`
 copied from the ignore list into the suppression. This allows teams to still have
 visibility over suppressed findings, and the reasons why they were suppressed.
+
+### Contents
+{: .no_toc .fs-6 }
+
+1. TOC
+{:toc}
 
 ### Includes
 {: .fs-6 }
@@ -99,8 +105,11 @@ to identify which findings to suppress, including:
 * By finding offset (in bytes).
 
 STACS allows these types to be combined to provide fine-grained control over
-suppressions, in order to try and prevent accidental suppression of future issues.
-Please see the appropriate sections below for more information on each of these types.
+suppressions. Please see the appropriate "Types" section(s) below for more information
+on each of these types.
+
+### Types
+{: .fs-6 }
 
 #### By MD5 hash
 {: .fs-5 }
