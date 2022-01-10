@@ -16,6 +16,8 @@ credential formats can be detected.
 
 * AWS credentials (access key id / secret access key).
 * GCP service account JSON.
+* Generic JSON Web Tokens (JWTs).
+* Strip API tokens (secret keys).
 
 ### Hashes (Crypt)
 {: .fs-6 }
