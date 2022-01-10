@@ -6,16 +6,19 @@ permalink: /support/credential-types
 ---
 
 ## Credential Types
-<br />
+{: .fs-7 }
+
 This section of the documentation details which tools STACS can integrate with, and what
 credential formats can be detected.
 
 ### Cloud
+{: .fs-6 }
 
 * AWS credentials (access key id / secret access key).
 * GCP service account JSON.
 
 ### Hashes (Crypt)
+{: .fs-6 }
 
 * bcrypt.
 * MD5.
@@ -25,6 +28,7 @@ credential formats can be detected.
 * NTHash.
  
 ### *Nix
+{: .fs-6 }
 
 * `/etc/passwd` - Missing password (blank).
 * `/etc/passwd` - Static password.
@@ -32,12 +36,14 @@ credential formats can be detected.
 * `/etc/shadow` - Static password.
 
 ### PKI
+{: .fs-6 }
 
 * PEM format DSA private key (PKCS#1)
 * PEM format RSA private key (PKCS#1)
 * PEM format private key (PKCS#8)
 
 ### SaaS
+{: .fs-6 }
 
 * Github Tokens.
 

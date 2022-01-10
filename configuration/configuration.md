@@ -6,7 +6,8 @@ permalink: /configuration
 ---
 
 ## Configuration
-<br />
+{: .fs-7 }
+
 This section of the documentation details STACS configuration options, including
 ignore lists and rules.
 
