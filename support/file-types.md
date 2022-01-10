@@ -6,14 +6,17 @@ permalink: /support/file-types
 ---
 
 ## File Types
-<br />
+{: .fs-7 }
+
 This section of the documentation details which file types are supported by STACS.
 
 ### Plain-Text
+{: .fs-6 }
 
 All plain-text file formats are supported, regardless of their filename.
 
 ### Archives
+{: .fs-6 }
 
 As STACS works on detected file types, rather than the filename, file formats based on
 these supported types are automatically supported, including Docker images, Android

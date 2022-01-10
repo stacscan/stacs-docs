@@ -6,7 +6,8 @@ permalink: /getting-started
 ---
 
 ## Getting Started
-<br />
+{: .fs-7 }
+
 This section of the documentation details how to get started with STACS, and how to
 integrate it with your environment.
 

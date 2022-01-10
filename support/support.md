@@ -6,7 +6,8 @@ permalink: /support
 ---
 
 ## Support
-<br />
+{: .fs-7 }
+
 This section of the documentation details which tools STACS can integrate with, and what
 credential formats can be detected.
 
