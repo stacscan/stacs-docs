@@ -82,7 +82,7 @@ ignore lists. This allows multiple ignore lists to be maintained for different
 components within a project, rather than having one large ignore list for the project.
 
 "Includes" are especially useful in organisations where many of the same frameworks or
-tools are used by mutlple teams. If a team has marksa a finding in a commonly used
+tools are used by mutlple teams. If a team has marked a finding in a commonly used
 framework as a false positive, other teams can receive the benefit of not having to
 triage the same finding.
 
