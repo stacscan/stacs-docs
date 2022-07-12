@@ -40,12 +40,20 @@ credential formats can be detected.
 ### PKI
 {: .fs-6 }
 
-* PEM format DSA private key (PKCS#1)
-* PEM format RSA private key (PKCS#1)
-* PEM format private key (PKCS#8)
+* PEM format DSA private key (PKCS#1).
+* PEM format RSA private key (PKCS#1).
+* PEM format private key (PKCS#8).
+* OpenSSHv1 private key.
+* SSH RSA1 private key.
+* PFX / PKCS#12.
+* PuTTY PPK.
 
 ### SaaS
 {: .fs-6 }
 
 * Github Tokens.
-
+* NPM Tokens.
+* PyPI Tokens.
+* Slack Bot OAuth Token.
+* Slack User OAuth Tokens.
+* Stripe API Secret Keys.

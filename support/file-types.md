@@ -20,13 +20,17 @@ All plain-text file formats are supported, regardless of their filename.
 
 As STACS works on detected file types, rather than the filename, file formats based on
 these supported types are automatically supported, including Docker images, Android
-APKs, OVAs, JARs, WARs, EARs, and more!
+APKs, Debian Packages, RPMs, macOS Packages, OVAs, JARs, WARs, EARs, and more!
 
-* ZIP (`zip`)
 * 7-Zip (`7z`)
 * bzip2 (`bz2`)
+* Microsoft Cabinet (`cab`)
+* CPIO (`cpio`)
 * gzip (`gz`)
 * ISO (`iso`)
-* XZ (`xz`)
-* Tarball (`tar`)
+* Roshal Archive (`rar`)
 * RPM (`rpm`)
+* Tarball (`tar`)
+* eXtensible ARchive (`xar`)
+* XZ (`xz`)
+* ZIP (`zip`)
