@@ -23,6 +23,7 @@ these supported types are automatically supported, including Docker images, Andr
 APKs, Debian Packages, RPMs, macOS Packages, OVAs, JARs, WARs, EARs, and more!
 
 * 7-Zip (`7z`)
+* archiver (`ar`)
 * bzip2 (`bz2`)
 * Microsoft Cabinet (`cab`)
 * CPIO (`cpio`)
